@@ -1,5 +1,4 @@
-### Hi👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+### Hi 👋
 ![손호상 소개](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hosang%20Son&fontAlign=50)
 
 - 🔭 I’m currently working on ...
