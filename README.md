@@ -8,3 +8,5 @@
 - 👀 interested in the fields of statistics and data science, analysis
 - 👀 and macroeconomics, stock market
 -	❤️ fall in wine&food, music, philosophy, cooking, and every classical things
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=stringback)](https://solved.ac/stringback)
