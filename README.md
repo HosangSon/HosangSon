@@ -12,6 +12,6 @@
 ## 
 ![HosangSon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HosangSon&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HosangSon&layout=compact)](https://github.com/HosangSon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HosangSon&langs_count=10&layout=compact)](https://github.com/HosangSon/github-readme-stats)
 
 ## 
