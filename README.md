@@ -10,9 +10,10 @@
 - 👀 and macroeconomics, stock market
 -	❤️ fall in wine&food, music, philosophy, cooking, and every classical things
 ## 
+![HosangSon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HosangSon&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HosangSon&layout=compact)](https://github.com/HosangSon/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HosangSon&layout=compact&theme=dark)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=stringback)](https://solved.ac/stringback)
-
-![HosangSon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HosangSon&show_icons=true&theme=dark)
 ## 
