@@ -10,7 +10,7 @@
 - 👀 and macroeconomics, stock market
 -	❤️ fall in wine&food, music, philosophy, cooking, and every classical things
 ## 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HosangSon&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HosangSon&layout=compact&theme=dark)(https://github.com/HosangSon/HosangSon)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=stringback)](https://solved.ac/stringback)
 
