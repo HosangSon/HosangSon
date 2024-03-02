@@ -14,5 +14,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HosangSon&layout=compact)](https://github.com/HosangSon/github-readme-stats)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=stringback)](https://solved.ac/stringback)
 ## 
