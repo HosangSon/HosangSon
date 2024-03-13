@@ -1,7 +1,7 @@
 ### Hi,  Call me Ho-sang👋
 ![손호상 소개](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hosang%20Son&fontAlign=50)
 - 🌱 currently learning Java, Python, R ...
-- 🌱 studying in the 22nd session of the multicampus backend development course
+- 🌱 studying in the 22nd session of the multicampus backend developer course
 - 🏫 majoring in statistics and data science at KNOU(Korea National Open University)
 - 🏫 planning to double major in computer science, but i don't know how it will turn out 😋
 - 🏊 taking beginner swimming lessons
