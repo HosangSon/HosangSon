@@ -7,8 +7,6 @@
 - 👀 and macroeconomics, stock market
 ## 
 ![HosangSon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HosangSon&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HosangSon&langs_count=10&layout=compact)](https://github.com/HosangSon/github-readme-stats)
 ## 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=stringback)](https://solved.ac/stringback/)
 ##
