@@ -5,8 +5,3 @@
 - 🏊 swimming Intermediate !!
 - 👀 interested in the fields of statistics and data science, analysis
 - 👀 and macroeconomics, stock market
-## 
-![HosangSon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HosangSon&show_icons=true)
-## 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=stringback)](https://solved.ac/stringback/)
-##
